@@ -66,7 +66,7 @@ public class MainActivity extends AppCompatActivity
         };
 
         list = new ArrayList<>();
-        for(int i=0;i<imageUrls.length;i++){
+        for(int i=2;i<4;i++){
             MainListItem item=new MainListItem();
 
             item.setImageUrl(imageUrls[i]);
@@ -134,7 +134,7 @@ public class MainActivity extends AppCompatActivity
 
         }else if(id == R.id.contactus_nav){
             Intent intent = new Intent(Intent.ACTION_SENDTO);
-            String uriText = "mailto:" + Uri.encode("akhileshnithcse@gmail.com") + "?subject=" +
+            String uriText = "mailto:" + Uri.encode("prakashpusa@gmail.com") + "?subject=" +
                     Uri.encode("Feedback") + "&body=" + Uri.encode("");
 
             Uri uri = Uri.parse(uriText);

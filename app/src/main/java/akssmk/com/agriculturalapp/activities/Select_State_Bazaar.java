@@ -41,7 +41,7 @@ public class Select_State_Bazaar extends AppCompatActivity {
     public static final String CROP ="crop" ;
     private Spinner spinner1, spinner2, spinner3;
     private Button btnSubmit;
-    private static final String URL_DISTRICT = "http://kharita.freevar.com/district_market.php";
+    private static final String URL_DISTRICT = "http://kharita.freevar.com/district.php";
     private static final String URL_CROP = "http://kharita.freevar.com/crop.php";
     ArrayAdapter<String> arrayAdapter,arrayAdapter1,arrayAdapter2;
     ArrayList<String> list11,list2;

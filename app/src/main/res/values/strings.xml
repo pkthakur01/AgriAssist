@@ -48,8 +48,8 @@
     <string name="policy_title">Government Schemes</string>
 
     <string name="about">About Application</string>
-    <string name="about_text">This app is made for the event Hackathon conducted by Digital India and sponsered by HackerEarth.\n\nThis
-        is a open source project Source can be found at <a href="https://github.com/sukhbir-singh/AgriculturalApp">link</a></string>
+    <string name="about_text">This App is made by <a href="https://www.prakashkumar.co.in/">Prakash Kumar</a> and <a href="https://www.lakshaygrover.in/">Lakshay Grover</a> as an Specialization Project\n\nThis
+        is a open source project Source can be found at <a href="https://github.com/pkthakur01/AgriAssist">link</a></string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
